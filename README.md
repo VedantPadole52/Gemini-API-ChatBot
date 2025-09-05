@@ -1,6 +1,4 @@
 # 🤖 Gemini API Chatbot.
- #ToolAssisted
- #LearningProject
 
 ### **What I Learned and Integrated:**
 I did not build the entire chatbot from scratch but learned how to use an existing **AI Chatbot codebase** and integrate it into my own **blog and e-commerce websites**. I focused on understanding how the **Gemini API** works and how to connect it to my project. Below is how I applied this knowledge to enhance user interactions on my site.
