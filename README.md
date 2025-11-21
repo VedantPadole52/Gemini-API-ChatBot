@@ -1,4 +1,4 @@
-# 🤖 Gemini API Chatbot (Learned API Integration)
+# 🤖 Gemini API Chatbot (Learned API Integration).
 # I did not build the entire chatbot , it is inspire by learning from YouTuber Rohit Negi for getting knowledge of "how API integration work".I focused on understanding how the **Gemini API** works and how to connect it to my project.
 
 ### **What I Learned and Integrated:**
